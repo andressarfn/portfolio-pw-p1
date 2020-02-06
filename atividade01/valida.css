@@ -1,0 +1,34 @@
+body{
+	background: #F09819;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #EDDE5D, #F09819); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+header{
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+div{
+	text-align: center;
+	font-family: Arial;
+	font-style: italic;
+}
+footer{
+	text-align: center;
+	font-style: italic;
+	color: white;
+	font-size: 20px;
+}
+#msg{
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: 	#4E3F52;
+	font-style: italic;
+}
+h3{
+	text-align: center;
+	font-family: Arial;
+	font-size: 17px;
+	color: 	#4E3F52;
+}

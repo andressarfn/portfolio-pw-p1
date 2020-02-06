@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://i.ibb.co/JvJLy3r/11.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 150%;
+}
+div#corpo-form{
+	border-radius: 10px;
+	padding: 15px;
+	width: 300px;
+	margin: 150px auto 0px auto;
+	box-shadow: 3px 3px 10px #000000;
+	background: #ffd740;
+}
+h2{
+    text-align: center;
+    color: #e53935;
+}
+h3{
+	text-align: center;
+}
+a{
+	text-align: center;
+	display: block;
+}
+div#php-txt{
+    text-align: center;
+    color: #e53935;
+}

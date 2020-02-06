@@ -1,0 +1,1 @@
+google.sbox.p50 && google.sbox.p50(["fazer login com php e my",[["criar sistema de login com php e mysql",0,[22,30]]],{"a":"CLWeDQeHNh9gNeXlMDv4BOAgl34PLW40Mh1REOLriPz7PPPfzN7SgvmP3ITS9Z5Vo8sVVj8jwRrVJPQVGue3at4nNtyOi5rCbg3qt3KE","j":"2s","k":1,"q":"P2c_58DVkojt055Tno957-GJbYY"}])

@@ -1,0 +1,48 @@
+body{
+	background: #00c3ff;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #ffff1c, #00c3ff);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #ffff1c, #00c3ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+header{
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+table{
+	font-size: 10px;
+	font-family: Arial;	
+}
+input::-webkit-input-placeholder{
+    font-size: 10px;
+	font-family: Arial;	
+}
+section{
+	background: white;
+	border-radius: 10px;
+	padding: 15px;
+	width: 350px;
+	margin: auto;
+	box-shadow: 3px 3px 10px #000000;
+	position: center;
+}
+div{
+	text-align: center;
+	padding: 3px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 15px;
+}
+footer{
+	text-align: center;
+	font-style: italic;
+	color: white;
+	font-size: 20px;
+}
+#botao{
+	width: 170px;
+    height: 25px;
+	font-family: Arial;
+	
+}
+

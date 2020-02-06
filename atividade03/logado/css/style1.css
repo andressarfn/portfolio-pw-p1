@@ -1,0 +1,32 @@
+body{
+	background-color: #e53935;	
+}
+div#corpo-form{
+	border-radius: 10px;
+	padding: 15px;
+	width: 400px;
+	margin: 150px auto 0px auto;
+	box-shadow: 3px 3px 10px #000000;
+	background: #ffd740;
+	text-align: center;
+}
+h2{
+    text-align: center;
+    color: #858383;
+}
+h3{
+	text-align: center;
+	color:#e53935;
+}
+a{
+	text-align: center;
+	display:#e53935;
+}
+div#php-txt{
+    text-align: center;
+    color: #e53935;
+}
+h5{
+	text-align: center;
+	color: #e53935;
+}
